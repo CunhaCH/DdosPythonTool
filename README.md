@@ -1,0 +1,2 @@
+# DdosPythonTool
+simple ddos tool.
